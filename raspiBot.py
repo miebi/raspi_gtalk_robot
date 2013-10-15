@@ -30,7 +30,7 @@ from PyGtalkRobot import GtalkRobot
 
 BOT_GTALK_USER = 'raspberyian@gmail.com'
 BOT_GTALK_PASS = 'passraspberry'
-BOT_ADMIN = 'admin_raspberryian@gmail.com'
+BOT_ADMIN = 'raspberryian@gmail.com'
 
 GPIO.setmode(GPIO.BOARD) # or GPIO.setmode(GPIO.BCM)
 ############################################################################################################################
