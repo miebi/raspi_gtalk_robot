@@ -28,9 +28,9 @@ import subprocess
 import RPi.GPIO as GPIO
 from PyGtalkRobot import GtalkRobot
 
-BOT_GTALK_USER = 'bot_username@gmail.com'
-BOT_GTALK_PASS = 'password'
-BOT_ADMIN = 'admin_username@gmail.com'
+BOT_GTALK_USER = 'raspberyian@gmail.com'
+BOT_GTALK_PASS = 'passraspberry'
+BOT_ADMIN = 'admin_raspberryian@gmail.com'
 
 GPIO.setmode(GPIO.BOARD) # or GPIO.setmode(GPIO.BCM)
 ############################################################################################################################
